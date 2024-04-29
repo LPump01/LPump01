@@ -18,8 +18,8 @@
 <br/>
   #
   <h2>👨‍💻 Coding Projects:</h2>
-- <b>C# Insurance Calculator (.NET GUI) </b>
-  - [Insurance Calculator][(https://github.com/Ejhayn04/C-InsuranceCalculator/blob/main/README.md)]
+- <b>SQL Stored Procedures </b>
+  - [Stored Procedures][https://github.com/LPump01/SQL_StoredProcedure]
   <br/>
 - <b>C# Product Locator / Stock Status Console Application (.NET Framework)</b>
   - [C# Product Locator / Stock Status Console Application][(https://github.com/Ejhayn04/Product-In-Stock-Status-Application)]</b></i>
