@@ -21,8 +21,8 @@
 - <b>SQL Stored Procedures </b>
   - [Stored Procedures][https://github.com/LPump01/SQL_StoredProcedure]
   <br/>
-- <b>C# Product Locator / Stock Status Console Application (.NET Framework)</b>
-  - [C# Product Locator / Stock Status Console Application][(https://github.com/Ejhayn04/Product-In-Stock-Status-Application)]</b></i>
+- <b>SQL Bike Database </b>
+  - [Bike Database][(https://github.com/LPump01/SQL_Bike_Database/tree/main)]</b></i>
     <br/>
 - <b>HTML ShakeSpeare Page Creation  </b>
   - [HTML ShakeSpeare Page Creation][(https://github.com/Ejhayn04/ShakeSpeare-Page-Creation-HTML-)]
