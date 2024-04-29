@@ -1,9 +1,7 @@
-### Emmanuel Haynes ✌️
+### Lawrence Pumphrey
 ### Student at the University of Louisville
 
-##
-
-I am a student at the University of Louisville currently majoring in Information Security, and Risk and Compliance Intern at Humana Government Business. This portfolio showcases all of my current projects that I have written. I hope you enjoy my work!
+## I am a student at the University of Louisville currently majoring in Computer Information Systems(Cybersecurity) and help manage a gaming server with 120+ players at once. This portfolio showcases projects that I have made myself. I hope you enjoy my work!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emmanuel-haynes-953482215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkuc8APqgQhmSytvfqYt59w%3D%3D">
