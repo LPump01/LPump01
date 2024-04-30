@@ -1,20 +1,11 @@
 ### Lawrence Pumphrey
 ### Student at the University of Louisville
 
-## I am a student at the University of Louisville currently majoring in Computer Information Systems(Cybersecurity) and help manage a gaming server with 120+ players at once. This portfolio showcases projects that I have made myself. I hope you enjoy my work!
+## I am a student at the University of Louisville currently majoring in Computer Information Systems(Cybersecurity) and helping manage a gaming server with 120+ players at once. This portfolio showcases projects that I have made myself. I hope you enjoy my work!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emmanuel-haynes-953482215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkuc8APqgQhmSytvfqYt59w%3D%3D">
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
-
-### Languages and Tools 💻 
-  
- <img align="left" alt="Java" width="30px"  style="padding-right:15px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="left" alt="Java" width="30px"  style="padding-right:15px;" src= 
-   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="left" alt="Java" width="30px"  style="padding-right:15px;" src= 
-  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <p align="left"> <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fthe-c-programming-language-computer-programming-programmer-png-free-download--732186851940929894%2F&psig=AOvVaw05i4G1qtmVHTCs9-zOqKvu&ust=1714500958738000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC-4IDj5oUDFQAAAAAdAAAAABAE" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fthe-c-programming-language-computer-programming-programmer-png-free-download--732186851940929894%2F&psig=AOvVaw05i4G1qtmVHTCs9-zOqKvu&ust=1714500958738000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC-4IDj5oUDFQAAAAAdAAAAABAE" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <br/>
   #
   <h2>👨‍💻 Coding Projects:</h2>
@@ -36,30 +27,12 @@
 <b> Creation of UoFL Basketball Team Website (WIX)</b>
   - [Website] [(https://youngflymetro.wixsite.com/uofl-mens--basketbal)]
   <br/>
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - <b>SQL Injection with Burp Suite (SQL) </b>
-  - [SQL Injection][https://github.com/Ejhayn04/SQL-Injection-With-Burp-Suit/tree/main]
-  <br/>
-- <b> Snort (Linux) </b>
-  - [Linux][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
-  <br/>
-- <b> Wireless Security (Linux) </b>
-  - [Kali Linux][(https://github.com/Ejhayn04/Wireless-Security/tree/main)]
-  <br/>
-- <b> Creating Firewall in Linux (Linux) </b>
-  - [Linux][(https://github.com/Ejhayn04/Linux-Firewall/tree/main)]
-  <br/>
-- <b> AD and GPOS (SQL) </b>
-  - [SQL][(https://github.com/Ejhayn04/AD-and-GPOS/tree/main)]
-  <br/>
-
 
 <h2> Certifications 🎓 </h2>
 - <b>[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)</b>
 <br/>
--<b>[HacktheBox PenTester Academy]</b>
-<h2> Coding / Security Skills </h2>
-- Python Certified, Excel certified, Java Programming, Linux, HTML Programming, Bash, Metasploit, SQL Programming, C# Programming, Tenable, Rapid7, Azure Cloud, Risk Management, Risk Analysis, Microsoft Office, SharePoint, DevOps, 
+<h2> Skills </h2>
+- Excel certified, Java Programming, Linux, HTML Programming,  SQL Programming, C# Programming, C Programming, C++ Programming, Microsoft Office 
 
 <h2>Soft Skills</h2>
 - Networking      -Interpersonal Skills
