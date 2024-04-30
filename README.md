@@ -18,15 +18,9 @@
 - <b>C# Car Dealership</b>
   - [C# Car Dealership][(https://github.com/LPump01/CSharp_Car_Dealership)]
   <br/>
-- <b>HTML Credit Card Info Webform</b>
-  - [Credit Card Info Webform]([(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform)]
+- <b>C# Shipping Companies</b>
+  - [C# Shipping Companies]([(https://github.com/LPump01/CSharp_Shipping_Companies)]
 <br/>
-- <b>C# Digital CLock (.NET GUI) </b>
-  - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
-  <br/>
-<b> Creation of UoFL Basketball Team Website (WIX)</b>
-  - [Website] [(https://youngflymetro.wixsite.com/uofl-mens--basketbal)]
-  <br/>
 <br/>
 <h2> Skills </h2>
 - Excel certified, Acess Certified, Java Programming, Linux, HTML Programming,  SQL Programming, C# Programming, C Programming, C++ Programming, Microsoft Office 
