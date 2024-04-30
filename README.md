@@ -27,12 +27,9 @@
 <b> Creation of UoFL Basketball Team Website (WIX)</b>
   - [Website] [(https://youngflymetro.wixsite.com/uofl-mens--basketbal)]
   <br/>
-
-<h2> Certifications 🎓 </h2>
-- <b>[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)</b>
 <br/>
 <h2> Skills </h2>
-- Excel certified, Java Programming, Linux, HTML Programming,  SQL Programming, C# Programming, C Programming, C++ Programming, Microsoft Office 
+- Excel certified, Acess Certified, Java Programming, Linux, HTML Programming,  SQL Programming, C# Programming, C Programming, C++ Programming, Microsoft Office 
 
 <h2>Soft Skills</h2>
 - Networking      -Interpersonal Skills
