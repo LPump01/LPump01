@@ -23,7 +23,7 @@
 <br/>
 <br/>
 <h2> Skills </h2>
-- Excel certified, Access Certified, Java Programming, Linux, HTML Programming,  SQL Programming, C# Programming, C Programming, C++ Programming, Microsoft Office, Database Security
+- Excel certified, Access Certified, Java Programming, Linux, HTML Programming,  SQL Programming, C# Programming, C Programming, C++ Programming, Microsoft Office, Database Security, DevOps
 
 <h2>Soft Skills</h2>
 - Networking      -Interpersonal Skills
