@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/lawrence-pumphrey-iv-680705297/?original_referer=https%3A%2F%2Flepump02.wixsite.com%2F">
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 <br/>
-  #
+  
   <h2>👨‍💻 Projects:</h2>
 - <b>SQL Stored Procedures </b>
   - [Stored Procedures][https://github.com/LPump01/SQL_StoredProcedure]
