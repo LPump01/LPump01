@@ -4,7 +4,7 @@
 ## I am a student at the University of Louisville, currently majoring in Computer Information Systems(Cybersecurity), and I have worked as an Information Security intern. This portfolio showcases projects that I have made myself. I hope you enjoy my work!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/emmanuel-haynes-953482215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkuc8APqgQhmSytvfqYt59w%3D%3D">
+  <a href="[https://www.linkedin.com/in/emmanuel-haynes-953482215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkuc8APqgQhmSytvfqYt59w%3D%3D](https://www.linkedin.com/in/lawrence-pumphrey-iv-680705297/?original_referer=https%3A%2F%2Flepump02.wixsite.com%2F)">
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 <br/>
   #
